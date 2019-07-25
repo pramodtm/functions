@@ -116,5 +116,5 @@ Thumbs.db
 .spyproject/encoding.ini
 .spyproject/vcs.ini
 .spyproject/workspace.ini
-*.json
+
 *.csv
